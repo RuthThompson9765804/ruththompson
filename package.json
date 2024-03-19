@@ -1,0 +1,31 @@
+{
+  "name": "ruththompson",
+  "version": "1.0.0",
+  "description": "Ruththompson is a Node.js module providing a collection of utility functions for common tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RuthThompson9765804/ruththompson"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "squarunblownett": "1.0.0",
+"v2-sharondavis": "1.0.0",
+"kennethallen": "1.0.0",
+"trumposwere": "1.0.0",
+"JohnYoung": "1.0.0",
+"layer-v11": "1.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuthThompson9765804/ruththompson/issues"
+  },
+  "homepage": "https://github.com/RuthThompson9765804/ruththompson#readme"
+}
